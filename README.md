@@ -1,5 +1,5 @@
 # EECS348-Lab-5
-
+```
 $ ./sales
 Month     Sales
 January   $23458.01
@@ -86,3 +86,4 @@ Enter the NFL score: 25
 0 TD + 2pt, 0 TD + FG, 0 TD, 3 3pt FG, 8 Safety, 
 0 TD + 2pt, 0 TD + FG, 0 TD, 1 3pt FG, 11 Safety, 
 Enter the NFL score: 0
+```
